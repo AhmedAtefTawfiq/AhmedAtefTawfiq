@@ -21,6 +21,11 @@ I’m passionate about delivering exceptional software and improving workflows. 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
 ![TestNG](https://img.shields.io/badge/-TestNG-000?&logo=TestNG)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![JMeter](https://img.shields.io/badge/-JMeter-000?&logo=Apache-JMeter)
+![JIRA](https://img.shields.io/badge/-JIRA-000?&logo=JIRA)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
+![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
