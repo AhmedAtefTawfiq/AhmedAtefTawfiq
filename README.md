@@ -31,7 +31,7 @@ I’m passionate about delivering exceptional software and improving workflows. 
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Ahmed Atef Tawfiq](https://www.linkedin.com/in/ahmedateftawfiq/)
+- LinkedIn: [Ahmed Atef Tawfiq](https://www.linkedin.com/in/ahmedateftawfic/)
 - Email: [ahmedateftawfiq@gmail.com](mailto:ahmedateftawfiq@gmail.com)
 
 ## 💬 Let's Collaborate!
