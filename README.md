@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Ahmed, a passionate Software Test Engineer wit
 
 ## 🌱 About Me
 
-Hi there! I'm a Software Test Engineer with over 3 years of experience in software testing. I specialize in:
+Hi there! I'm a Software Test Engineer with over 4 years of experience in software testing. I specialize in:
 
 - Manual Testing for web and mobile applications.
 - APIs Testing using Postman.
