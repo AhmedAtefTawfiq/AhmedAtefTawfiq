@@ -2,7 +2,7 @@
 
 ![Welcome Animation](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-Welcome to my GitHub profile! I'm Ahmed, a passionate Software Test Engineer with over 3 years of experience in software testing.
+Welcome to my GitHub profile! I'm Ahmed, a passionate Software Test Engineer with over 4 years of experience in software testing.
 
 ## 🌱 About Me
 
